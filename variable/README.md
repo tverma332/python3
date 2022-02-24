@@ -7,7 +7,7 @@ Each memory cell has an address. Python and other high-level languages use a sym
 
 > Why is python called Dynamic Typed language? <br>
 
-`Dynamic typing` means type of variable is determined onlyl at runtime no need to declare variable in python.
+`Dynamic typing` means type of variable is determined only at runtime no need to declare variable in python.
 
 ---
 
