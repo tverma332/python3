@@ -1,3 +1,3 @@
 # Python Scripting 
 
-> specialcharacter.py : Usage of Special characters
+* [Special Characters](./Special_Character) : Usage of Special characters in python
