@@ -7,5 +7,5 @@ print(type(str(x)))
 
 y=5.90
 print(type(y))
-print(int(y)) #converted float (y) into string using int
+print(int(y)) #converted float (y) into integer using int
 print(type(y))
