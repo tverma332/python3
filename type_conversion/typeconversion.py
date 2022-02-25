@@ -3,9 +3,9 @@
 
 x=True
 print(type(x))
-print(type(str(x)))
+print(type(str(x))) 
 
 y=5.90
 print(type(y))
-print(int(y))
+print(int(y)) #converted float (y) into string using int
 print(type(y))
