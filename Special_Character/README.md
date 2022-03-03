@@ -1,2 +1,1 @@
-# Basics 
-[specialcharacters.py](./specialcharacters.py) : Usage of Special characters
+# Usage of Special characters
