@@ -8,3 +8,6 @@ my_string = input("Enter your String: ")
 print(my_string.center(terminal_size).title())
 print(my_string.ljust(terminal_size).title())
 print(my_string.rjust(terminal_size).title())
+
+# os.get_terminal_size() method in python is used to query size of a terminal
+# os module in python provides functions for interacting with operating system. This module provides a portable way of using operating system dependent function.
