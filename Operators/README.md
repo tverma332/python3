@@ -5,10 +5,10 @@
 
 ### 7 Operators in Python scripting are :
 ---
-1. Arithmetic operator
-2. Assignment operator
-3. Comparison operator
-4. Identity operator
-5. Membership operator
-6. Logical operator
+1. [Arithmetic operator](./Arithmetic-operator/)
+2. [Assignment operator](./Assignment-operator/)
+3. [Comparison operator](./Comparison-oprator/)
+4. [Identity operator](./Identity-operator/)
+5. [Membership operator](./Membership-operator/)
+6. [Logical operator](./Logical-operator/)
 7. Bitwise operator 
