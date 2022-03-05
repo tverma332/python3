@@ -25,4 +25,29 @@ Now we can use the module we just created, by using the import statement:
 import mymodule
 mymodule.greeting("Jonathan")
 ```
+### Different ways of importing Module :
+
+
+`METHOD 1`:
+```
+import math
+print(math.pi)
+```
+`METHOD 2`:
+```
+from math import *
+print(pi)
+```
+`METHOD 3`:
+```
+from math pi,pow
+print(pi)
+print(pow(2,3))
+```
+`METHOD 4`:
+```
+import math as mt
+print(mt.pi)
+```
+
 
