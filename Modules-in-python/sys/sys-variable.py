@@ -12,4 +12,7 @@ print(sys.modules)
 
 print(sys.path)
 
+# 4) argv = Returns a list of command line arguments passed to the python script
+
+print(sys.argv)
 
