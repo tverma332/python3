@@ -12,12 +12,12 @@ Ex- 'a' < 'b' = True ( Because ord('a') = 97 & ord('b') = 98)
 ```
 > To find ASCII code of a string
 
-  ord('a') , ord('+')
+  `ord('a') , ord('+')`
 
 > Character form ASCII code
 
- chr(45) , chr(97)
+ `chr(45) , chr(97)`
 
- NOTE : When we compare multiple char. string
+ NOTE : When we compare multiple char string
 
- `'aa'  < 'b'` : First char is compared to first char. on other side
+ `'aa'  < 'b'` : First char is compared to first char on other side
