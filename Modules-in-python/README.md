@@ -25,8 +25,7 @@ Now we can use the module we just created, by using the import statement:
 import mymodule
 mymodule.greeting("Jonathan")
 ```
-### Different ways of importing Module :
----
+## Different ways of importing Module :
 
 
 `METHOD 1`:
