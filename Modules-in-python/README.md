@@ -26,6 +26,7 @@ import mymodule
 mymodule.greeting("Jonathan")
 ```
 ### Different ways of importing Module :
+---
 
 
 `METHOD 1`:
