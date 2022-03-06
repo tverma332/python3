@@ -12,7 +12,7 @@
 3. Logical `NOT` operator work with the single boolean value. If the boolean value is True it returns False and vice-versa
 
 NOTE : In case of multiple conditions
-```
+```py
 Simple syntax for AND:
 all([2<3 , 4>5 , 8>7])
 ---

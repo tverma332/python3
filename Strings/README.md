@@ -7,7 +7,7 @@
  
 
 NOTE : Space is also a character in python scripting 
-```
+```py
 x=" "
 print(f"{bool(x)}")
 OUTPUT : True

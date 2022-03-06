@@ -17,7 +17,7 @@ With the for loop we can execute a set of statements, once for each item in a li
 
 ![](for_loop.jpg)
 
-```
+```py
 for x in "banana":
   print(x) 
 
@@ -37,7 +37,7 @@ The while loop in Python is used to iterate over a block of code as long as the 
 
 ![](./while-loop.jpg)
 
-```
+```py
 count = 0
 while (count < 3):
 	count = count + 1

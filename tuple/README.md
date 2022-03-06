@@ -7,7 +7,7 @@
 Mainly it has index , count , etc but do not have modify operations like insert , extend , append becaase tuples are immutable
  
 
-```
+```py
 x = 5     : int
 x = 5,    : Tuple
 x = 5,6,7 : Tuple
