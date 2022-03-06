@@ -12,4 +12,4 @@ if os.path.exists(path):
 		else:
 			print(f"{os.path.join(path,x)} is file")
 else:
-	print("Path your Entered Doesn't exists")
+	print("Path you Entered Doesn't exists")
