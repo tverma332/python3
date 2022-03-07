@@ -18,7 +18,7 @@ Using setuptools, the latest version will be downloaded for you from the Python 
 
 `easy_install --upgrade pytz`
 
-Fetching time of a given time-zone :
+**Fetching time of a given time-zone :**
 
 The pytz.timezone() returns the timezone object by the name. And, the datetime.datetime.now() returns the date-time of that particular time-zone
 ```py
