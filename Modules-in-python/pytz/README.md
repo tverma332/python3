@@ -2,9 +2,9 @@
 
 Pytz brings the Olson tz database into Python and thus supports almost all time zones | Not buit-in module
 
-### **Installation**
+## **Installation**
 
----
+
 
 Python pytz module can be installed in the given way
 
