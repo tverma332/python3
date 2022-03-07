@@ -4,6 +4,8 @@ Pytz brings the Olson tz database into Python and thus supports almost all time 
 
 **Installation**
 
+---
+
 Python pytz module can be installed in the given way
 
 Using command line : 
@@ -19,6 +21,8 @@ Using setuptools, the latest version will be downloaded for you from the Python 
 `easy_install --upgrade pytz`
 
 **Fetching time of a given time-zone :**
+
+---
 
 The pytz.timezone() returns the timezone object by the name. And, the datetime.datetime.now() returns the date-time of that particular time-zone
 ```py
