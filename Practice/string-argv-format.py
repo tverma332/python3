@@ -2,7 +2,7 @@
 
 import sys
 
-if len(sys.argv) !=3:
+if len(sys.argv) !=3 :
 	sys.exit()
 
 usr_str = sys.argv[1] 
