@@ -1,4 +1,4 @@
-# LEC 59 : Find Java Version
+# LEC 60 : Find Java Version
 
 import subprocess
 cmd = 'java -version'
