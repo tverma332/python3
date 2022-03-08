@@ -15,7 +15,7 @@ if os.path.isfile(req_path):
 	sys.exit(2)
 	
 today = datetime.datetime.now()
-for each_file in os.listdir(req_path):
+for each_file in os.listdir(req_path) :
 	each_file_path = os.path.join(req_path,each_file)
 	if os.path.isfile(each_file_path):
 		file_cre_date = datetime.datetime.fromtimestamp(os.path.getctime(each_file_path))
