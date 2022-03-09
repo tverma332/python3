@@ -12,6 +12,7 @@ Access modes govern the type of operations possible in the opened file. It refer
 1. `Read Only (‘r’)` : Open text file for reading. The handle is positioned at the beginning of the file. If the file does not exists, raises I/O error. This is also the default mode in which file is opened.
 
 2. `Read and Write (‘r+’)` : Open the file for reading and writing. The handle is positioned at the beginning of the file. Raises I/O error if the file does not exists.
+
 3. `Write Only (‘w’)` : Open the file for writing. For existing file, the data is truncated and over-written. The handle is positioned at the beginning of the file. Creates the file if the file does not exists.
 
 4. `Write and Read (‘w+’)` : Open the file for reading and writing. For existing file, data is truncated and over-written. The handle is positioned at the beginning of the file.
@@ -24,8 +25,7 @@ Access modes govern the type of operations possible in the opened file. It refer
 
 It is done using the open( ) function. No module is required to be imported for this function.
 
-Syntax : 
-
+Syntax :
 `File_object = open(r"File_Name","Access_Mode")`
 
 
@@ -41,16 +41,31 @@ fo = open("MyFile.txt","a")
 
 close() function closes the file and frees the memory space acquired by that file. It is used at the time when the file is no longer needed or if it is to be opened in a different file mode
 
-Syntax :
-
+Syntax : 
 `File_object.close()`
 
 ```py
 # Opening and Closing a file "MyFile.txt"
-# for object name file1
+# for object name fo
 
 fo = open("MyFile.txt","a")
 fo.close()
 ```
 
 ## Writing to a file :
+
+There are two ways to write in a file.
+
+1. `write()` : Inserts the string str1 in a single line in the text file
+
+Syntax : 
+`File_object.write(str1)`
+
+```py
+fo = open ("random" , "w")
+
+fo.write("This is random text file\n")
+fo.write("This is second line")
+
+fo.close()
+```
