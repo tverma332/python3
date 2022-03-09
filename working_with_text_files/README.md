@@ -74,12 +74,28 @@ fo.close()
 
 Syntax : `File_object.writelines(L) for L = [str1, str2, str3]`
 
+```py
+my_content = ["This is date-1\n" , "This is data-2\n" , "This is date-3"]
+fo = open("random.txt" , "w")
+
+fo.writelines(my_content)
+fo.close()
+```
+
 ## Appending to a file 
 
 It will add new data not overwrite , means when you append a data that data will be inserted at the end i.e after existing data
 <br>
 
 `Use access mode = "a"`
+
+```py
+fo =open("random.txt" , "a")
+
+fo.write("This is second line\n")
+
+fo.close()
+```
 
 ## Reading from a file
 
@@ -89,10 +105,35 @@ There are three ways to read data from a text file.
 
 Syntax : `File_object.read(n)`
 
+```py
+fo = open("random.txt" , "r")
+
+print(fo.read())
+
+fo.close()
+```
+
 2. `readline()` : Reads a line of the file and returns in form of a string
 
 Syntax : `File_object.readline()`
 
+```py
+fo = open("random.txt" , "r")
+
+print(fo.readline()) # read first line
+print(fo.readline()) # read second line
+fo.close()
+```
+
 3. `readlines()` : Reads all the lines and return them as each line a string element in a list
 
 Syntax : `File_object.readlines()`
+
+```py
+fo = open("random.txt" , "r")
+
+x = fo.readlines()
+fo.close()
+
+print(x)
+```
