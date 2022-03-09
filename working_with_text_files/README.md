@@ -77,3 +77,4 @@ Syntax : `File_object.writelines(L) for L = [str1, str2, str3]`
 ## Appending to a file 
 
 It will add new data not overwrite , means when you append a data that data will be inserted at the end i.e after existing data
+Use access mode = 'a'
