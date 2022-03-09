@@ -5,7 +5,7 @@ Python provides inbuilt functions for creating, writing and reading files. There
 
 2. `Binary files` : In this type of file, there is no terminator for a line and the data is stored after converting it into machine understandable binary language
 
-## File Access Modes :
+## File Access Modes 
 
 Access modes govern the type of operations possible in the opened file. It refers to how the file will be used once its opened. These modes also define the location of the File Handle in the file. File handle is like a cursor, which defines from where the data has to be read or written in the file. There are 6 access modes in python.
 
@@ -21,7 +21,7 @@ Access modes govern the type of operations possible in the opened file. It refer
 
 6. `Append and Read (‘a+’)` : Open the file for reading and writing. The file is created if it does not exist. The handle is positioned at the end of the file. The data being written will be inserted at the end, after the existing data
 
-## Opening a File :
+## Opening a File 
 
 It is done using the open( ) function. No module is required to be imported for this function.
 
@@ -36,7 +36,7 @@ Syntax :
 fo = open("MyFile.txt","a")
 ```
 
-## Closing a File :
+## Closing a File 
 
 
 close() function closes the file and frees the memory space acquired by that file. It is used at the time when the file is no longer needed or if it is to be opened in a different file mode
@@ -52,7 +52,7 @@ fo = open("MyFile.txt","a")
 fo.close()
 ```
 
-## Writing to a file :
+## Writing to a file 
 
 There are two ways to write in a file.
 
@@ -74,3 +74,6 @@ fo.close()
 
 Syntax : `File_object.writelines(L) for L = [str1, str2, str3]`
 
+## Appending to a file 
+
+It will add new data not overwrite , means when you append a data that data will be inserted at the end i.e after existing data
