@@ -21,6 +21,7 @@ Access modes govern the type of operations possible in the opened file. It refer
 6. `Append and Read (‘a+’)` : Open the file for reading and writing. The file is created if it does not exist. The handle is positioned at the end of the file. The data being written will be inserted at the end, after the existing data
 
 **Opening a File :**
+---
 
 It is done using the open( ) function. No module is required to be imported for this function.
 
@@ -37,6 +38,7 @@ fo = open("MyFile.txt","a")
 ```
 
 **Closing a File :**
+---
 
 close() function closes the file and frees the memory space acquired by that file. It is used at the time when the file is no longer needed or if it is to be opened in a different file mode
 
