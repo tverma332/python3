@@ -23,5 +23,5 @@ fo.close()
 my_content = ["This is date-1" , "This is data-2" , "This is date-3"]
 fo = open("random.txt" , "w")
 for x in my_content:
-	fo.writelines(x+"\n")
+	fo.write(x+"\n") # use write because we're supplying string not list
 fo.close()
