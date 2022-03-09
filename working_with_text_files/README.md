@@ -78,4 +78,5 @@ Syntax : `File_object.writelines(L) for L = [str1, str2, str3]`
 
 It will add new data not overwrite , means when you append a data that data will be inserted at the end i.e after existing data
 <br>
-Use access mode = 'a'
+
+`Use access mode = "a"`
