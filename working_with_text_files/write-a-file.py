@@ -18,7 +18,7 @@ fo.writelines(my_content)
 fo.close()
 '''
 
-# METHOD 2.x = when you don't want to add \n again and again you can use the below method
+# METHOD 2.x = when you don't want to add \n again and again you can use the method written below
 
 my_content = ["This is date-1" , "This is data-2" , "This is date-3"]
 fo = open("random.txt" , "w")
