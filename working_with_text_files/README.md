@@ -80,3 +80,19 @@ It will add new data not overwrite , means when you append a data that data will
 <br>
 
 `Use access mode = "a"`
+
+## Reading from a file
+
+There are three ways to read data from a text file.
+
+1. `read()` : Returns the read bytes in form of a string. Reads n bytes, if no n specified, reads the entire file
+
+Syntax : `File_object.read(n)`
+
+2. `readline()` : Reads a line of the file and returns in form of a string
+
+Syntax : `File_object.readline()`
+
+3. `readlines()` : Reads all the lines and return them as each line a string element in a list
+
+Syntax : `File_object.readlines()`
