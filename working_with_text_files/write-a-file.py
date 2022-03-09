@@ -1,5 +1,5 @@
 '''
-# METHOD 1 : 
+# METHOD 1 : fo.write('file','w')
 
 fo = open ("random" , "w")
 

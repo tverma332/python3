@@ -69,3 +69,8 @@ fo.write("This is second line")
 
 fo.close()
 ```
+
+2. `writelines()` : For a list of string elements, each string is inserted in the text file.Used to insert multiple strings at a single time
+
+Syntax : `File_object.writelines(L) for L = [str1, str2, str3]`
+
