@@ -1,7 +1,7 @@
 # lower , title , upper operations on string
 
-x="spider"
-y="MAN"
+x = "spider"
+y = "MAN"
 
 v=x.upper() # all letters will become uppercase
 w=y.lower() # all letters will become lowercase
