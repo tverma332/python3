@@ -8,10 +8,10 @@
 
 NOTE : Space is also a character in python scripting 
 ```py
-x=" "
+x = " "
 print(f"{bool(x)}")
 OUTPUT : True
 ---
-y=""
+y = ""
 print(f"{bool(y)}")
 OUTPUT : False
