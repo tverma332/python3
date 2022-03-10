@@ -1,4 +1,5 @@
-x="python"
+x = "python"
+
 print(x.startswith("P"))
 print(x.startswith("p")) # Return True if x starts with the specified prefix, False otherwise
 print(x.endswith("P"))   # Return True if x ends with the specified suffix, False otherwise
