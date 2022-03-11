@@ -6,7 +6,7 @@ print(y)
 
 # 2) center = When you want to print string anywhere in center of given (any_number)
 
-x="python"
+x= "python"
 y=x.center(34)
 print(y)
 
