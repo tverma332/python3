@@ -1,6 +1,6 @@
 # 1) join = When you want to add something between the string letters
 
-x="python"
+x = "python"
 y="*".join(x) 
 print(y)
 
