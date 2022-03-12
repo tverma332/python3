@@ -27,7 +27,7 @@ print(datetime.datetime.now().strftime("%d-%m"))
  
 print(datetime.datetime.fromtimestamp(2344523343))
 
-# 6) datetime.datetime.timestamp() = convert date into second
+# 6) datetime.datetime.timestamp() = convert date into seconds
 
 x = datetime.datetime.now()
 
