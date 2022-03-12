@@ -8,7 +8,7 @@ print(datetime.datetime.now())
 
 print(datetime.datetime.today())
 
-# Difference between now() and today() is now() can give time & date info of differnt timezone also by take required argument but today() only give the local timezone info
+# Difference between now() and today() is now() can give time & date info of different timezone also by take required argument but today() only give the local timezone info
 
 # 3) datetime.datetime.now().year | .month | .day | .minute | .second | .microsecond
 
