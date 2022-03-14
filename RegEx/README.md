@@ -10,8 +10,7 @@
 
 ![](regex1.png)
 
-**Python Module for RegEx : `re`** 
+## **Python Module for RegEx : `re`** 
 
----
 
 ![](regex2.png)
