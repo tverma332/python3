@@ -12,7 +12,7 @@
 
 ## Python Module for RegEx : `re` 
 
-![](regex2.png)
+![](/RegEx/img/regex2.png)
 
 ## Syntax :
 
