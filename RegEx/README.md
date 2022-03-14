@@ -4,7 +4,7 @@
 
 * The regex is a procedure in any language to look for a specified pattern in a given text
 
-> _**What is pattern ?**_
+> **What is pattern ?**
 
 * It is a sequence of characters , which represent multiple strings
 
