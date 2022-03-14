@@ -15,7 +15,7 @@ This is less like the for keyword in other programming languages, and works more
 
 With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc
 
-![](for_loop.jpg)
+![](/Loops/img/for_loop.jpg)
 
 ```py
 for x in "banana":
@@ -35,7 +35,7 @@ a
 
 The while loop in Python is used to iterate over a block of code as long as the test expression (condition) is true
 
-![](./while-loop.jpg)
+![](/Loops/img//while-loop.jpg)
 
 ```py
 count = 0
