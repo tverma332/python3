@@ -1,6 +1,6 @@
 # CSV Module
 
-> What is CSV ?
+> **What is CSV** ?
 * CSV --> Comma separated values
 * It is a simple file format used to store tabular data , such as spreadsheet/excel or database
 * CSV is a convenient way to export data to spreadsheets and database as well as import or use it in other programs
