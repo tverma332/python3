@@ -21,3 +21,5 @@
 `NOTE :` `Text` is what from where you're searching & `Pattern` is what you're searching.
 
 ## Rules to create a Pattern :
+**PART 1 :**
+![](rules-part1.jpg)
