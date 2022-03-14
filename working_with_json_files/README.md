@@ -31,5 +31,5 @@
 }
 ```
 
-![](json.png)
+![](/working_with_json_files/img/json.png)
 
