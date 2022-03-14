@@ -23,3 +23,6 @@
 ## Rules to create a Pattern :
 **PART 1 :**
 ![](rules-part1.jpg)
+
+**PART 2 :**
+![](rules-part2.png)
