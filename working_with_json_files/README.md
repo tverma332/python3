@@ -3,6 +3,8 @@
 > **What is JSON** ?
 * JSON (Javascript Object Notation) is a popular data format used for representing structured data
 
+* It's common to transmit and receive data between a server and web application in JSON format
+
 **JSON File** :
 ```
 {
@@ -28,4 +30,6 @@
     }
 }
 ```
+
+![](json.png)
 
