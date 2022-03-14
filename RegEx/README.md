@@ -12,4 +12,6 @@
 
 **Python Module for RegEx : `re`** 
 
+---
+
 ![](regex2.png)
