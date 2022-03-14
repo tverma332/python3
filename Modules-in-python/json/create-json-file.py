@@ -1,6 +1,6 @@
 import json
 
-my_dict = {'Name' : 'Narendra' , 'skills' : ['Python' , 'shell' , 'yaml' , 'AWS']}
+my_dict = {'Name' : 'Tushar' , 'skills' : ['Python' , 'shell' , 'yaml' , 'AWS']}
 
 req_file = "myinfo.json"
 
