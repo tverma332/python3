@@ -40,7 +40,7 @@ print(pi)
 ```
 `METHOD 3`:
 ```py
-from math pi,pow
+from math import pi,pow
 print(pi)
 print(pow(2,3))
 ```
