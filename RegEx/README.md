@@ -14,3 +14,6 @@
 
 
 ![](regex2.png)
+
+## **Syntax :**
+![](regex3.png)
