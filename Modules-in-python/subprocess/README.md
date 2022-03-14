@@ -22,4 +22,4 @@ sp = subprocess.Popen(cmd , shell = True/False , stdout = subprocess.PIPE , stde
 
 `universal_newlines` = Boolean parameter.If true files containing stdout and stderr are opened in universal newline mode. By default you'll be get outpur as binary to convert that into string we use this parameter
 
-![](subprocess.png)
+![](/Modules-in-python/subprocess/img/subprocess.png)
