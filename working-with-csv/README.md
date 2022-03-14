@@ -6,7 +6,7 @@
 * CSV is a convenient way to export data to spreadsheets and database as well as import or use it in other programs
 
 
-CSV file :
+**CSV file** :
 ```csv
 S_NO,Name,Salary,Skill
 1,john,2000,Python
