@@ -10,10 +10,14 @@
 
 ![](regex1.png)
 
-## **Python Module for RegEx : `re`** 
-
+## Python Module for RegEx : `re` 
 
 ![](regex2.png)
 
-## **Syntax :**
+## Syntax :
+
 ![](regex3.png)
+
+`NOTE :` `Text` is what from where you're searching & `Pattern` is what you're searching.
+
+## Rules to create a Pattern :
