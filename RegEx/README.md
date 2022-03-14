@@ -8,7 +8,7 @@
 
 * It is a sequence of characters , which represent multiple strings
 
-![](regex1.png)
+![](/RegEx/img/regex1.png)
 
 ## Python Module for RegEx : `re` 
 
@@ -16,13 +16,13 @@
 
 ## Syntax :
 
-![](regex3.png)
+![](/RegEx/img/regex3.png)
 
 `NOTE :` `Text` is what from where you're searching & `Pattern` is what you're searching.
 
 ## Rules to create a Pattern :
 **PART 1 :**
-![](rules-part1.jpg)
+![](/RegEx/img/rules-part1.jpg)
 
 **PART 2 :**
-![](rules-part2.png)
+![](/RegEx/img/rules-part2.png)
