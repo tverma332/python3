@@ -26,3 +26,6 @@
 
 **PART 2 :**
 ![](/RegEx/img/rules-part2.png)
+
+**PART 3 :**
+![](/RegEx/img/rules-part3.jpg)
