@@ -29,3 +29,11 @@
 
 **PART 3 :**
 ![](/RegEx/img/rules-part3.jpg)
+
+
+
+## **RegEx with Flags :**
+
+Python offers some Flags to modify / Tune the behavior of Regular Expression
+
+![](/RegEx/img/regex-flags.png)
