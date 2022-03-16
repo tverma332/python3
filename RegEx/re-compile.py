@@ -1,5 +1,5 @@
 # re.compile = Python's re.compile() methos is used to compile a regular expression pattern provided as a string into a regex pattern object.
-# re.findall(my_pat , text) <===> re.compile(my_pat).findall(text)
+# re.findall(my_pat , text) <====> re.compile(my_pat).findall(text)
 
 import re
 
