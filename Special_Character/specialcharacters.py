@@ -2,7 +2,7 @@
 # Note: Use Special chars. only in quotes
 
 
-# 1) \n = Next line(Everything written after \n will be print on Next line)
+# 1) \n = Next line (Everything written after \n will be print on Next line)
 
 print("Hello\nWorld")
 
