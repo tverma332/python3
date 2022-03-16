@@ -10,7 +10,7 @@ print("Hello\nWorld")
 
 print("Hello \b\bworld")
 
-# 3) \t = tab(Add tab space)
+# 3) \t = tab (Add tab space)
 
 print("Hello\tworld")
 
