@@ -9,5 +9,4 @@ my_pat = r'\bpython[23]?\b'
 pat_ob = re.compile(my_pat , flags = re.I) # it also supports flags
 
 print(pat_ob.search(text))
-
 print(pat_ob.findall(text))
