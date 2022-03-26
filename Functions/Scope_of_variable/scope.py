@@ -14,6 +14,7 @@ x = 10 # This is global variable
 myfunction1()
 
 # Note : Priority is given to Local variable
+
 '''
 def myfunction1():
 	x = 60 # This is local variable
