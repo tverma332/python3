@@ -11,6 +11,7 @@ Whenever you've repetitive logic in your code then instead of repeating logic in
 
 ## Defining a Funcion
 In Python a function is defined using the `def` keyword , def is short for *define*. 
+
 `Syntax` : def functionname(parameter):
 ```py
 def mycode():
