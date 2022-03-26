@@ -90,3 +90,4 @@ Here :
 
 Now you'll get answer as per the value of x , if x = 2 then <br>
 f(x) = 13 if x = 1 then f(x) = 10.
+
