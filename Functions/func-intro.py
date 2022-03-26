@@ -26,20 +26,19 @@ else:
 # Using Function
 
 import os
-import platform
 import time
+import platform
 
-if platform.system()=="Windows":
-	print("Clearing your screen")
-	time.sleep(3)
-	os.system("cls")
-	print("Listing your dirs")
-	time.sleep(3)
-	os.system("dir")
+def mycode(cmd1 , cmd2):
+	print("Please wait. Clearing the screen....")
+	time.sleep(2)
+	os.system(cmd1)
+	print("Please wait finding the list of dir and files")
+	time.sleep(2)
+	os.system(cmd2)
+	return None
+
+if platform.system() == "Windows":
+	mycode("cls" , "dir")
 else:
-	print("Clearing your screen")
-	time.sleep(3)
-	os.system("clear")
-	print("Listing your dirs")
-	time.sleep(3)
-	os.system("ls -lrt")
+	mycode("clear" , "ls -lrt")

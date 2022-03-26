@@ -65,7 +65,7 @@ import time
 import platform
 
 def mycode(cmd1 , cmd2):
-	print("Please wait. Cleaning the screen....")
+	print("Please wait. Clearing the screen....")
 	time.sleep(2)
 	os.system(cmd1)
 	print("Please wait finding the list of dir and files")
