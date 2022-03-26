@@ -46,3 +46,31 @@ myfunc()
 
 print(x)
 ```
+
+## Global Keyword
+If you need to create a global variable, but are stuck in the local scope, you can use the global keyword.
+
+The global keyword makes the variable global
+
+```py
+def myfunction1():
+	x = 60 # This is local variable
+	print("Welcome to Fucntions")
+	print("x value from func1: ", x)
+	myfunction2()
+	return None
+
+def myfunction2():
+	print("Thank you!!")
+	print("x value form fucn2:", x)
+	return None
+
+def main():
+	global x
+	x = 10 # This is global variable
+	myfunction1()
+
+main()
+
+# NOTE : IF we don't use global x in main() then then x would be considered as local variable
+```
