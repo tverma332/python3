@@ -12,3 +12,5 @@ print(stdout.read())
 
 print("The error is: ")
 print(stderr.read())
+
+ssh.close()
