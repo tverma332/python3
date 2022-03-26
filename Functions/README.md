@@ -35,6 +35,30 @@ mycode()
 4. Function must be define before calling it
 
 **Ex -**
+
+Code to run commands in windows or Linux **(without Using Function)**
+
+```py
+import os
+import platform
+import time
+
+if platform.system()=="Windows":
+	print("Clearing your screen")
+	time.sleep(3)
+	os.system("cls")
+	print("Listing your dirs")
+	time.sleep(3)
+	os.system("dir")
+else:
+	print("Clearing your screen")
+	time.sleep(3)
+	os.system("clear")
+	print("Listing your dirs")
+	time.sleep(3)
+	os.system("ls -lrt")
+```
+**Using Function**
 ```py
 import os
 import time
@@ -54,6 +78,7 @@ if platform.system() == "Windows":
 else:
 	mycode("clear" , "ls -lrt")
 ```
+
 Let's understand it in terms of Mathematics :
 
 `f(x) = 3x + 7`
