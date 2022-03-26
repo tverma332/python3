@@ -1,4 +1,4 @@
-# shutil.copymode(src , dest) = Copy file permissions only (not data)
+# shutil.copymode(src , dest) = Copy file permissions only (not content)
 
 import shutil
 
