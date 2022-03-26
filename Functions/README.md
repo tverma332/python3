@@ -26,3 +26,8 @@ def mycode():
 mycode()
 ```
 
+## Rules to Define Function Name
+1. Function name should have only a-z , A-Z , 0-9 , _
+2. It should not start with number but can start with _
+3. Don't include any space
+4. Function must be define before calling it
