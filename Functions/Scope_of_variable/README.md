@@ -72,5 +72,5 @@ def main():
 
 main()
 
-# NOTE : IF we don't use global x in main() then then x would be considered as local variable
+# NOTE : IF we don't use global x in main() then x would also be considered as local variable
 ```
