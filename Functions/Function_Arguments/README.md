@@ -33,3 +33,52 @@ def main():
 
 main()
 ```
+
+## Function with default Arguments
+
+```py
+def display(a = 1):
+	print("The value of a is : ", a)
+
+display(4)
+display()
+```
+```py
+def add(a = 0 ,b = 0):
+	result = a + b
+	print(result)
+	return None
+
+add()
+```
+
+## Function with Keyword-Based Arguments
+
+```py
+
+def display(a,b):
+	print(f'a = {a}')
+	return None
+
+display(b = 4 , a = 45)
+```
+
+## Functions with Variable length arguments
+
+```py
+def display(*arg):
+	print(arg)
+	return None
+
+display(33 , 8) # Gives tuple as output
+```
+
+## Functions with variable keyword arguments
+
+```py
+def display(**karg):
+	print(karg)
+	return None
+
+display(a=3,b=5) # Gives dictionary as output
+```
