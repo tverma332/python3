@@ -7,7 +7,9 @@
 
 > **Why we need Function** ?
 
-Whenever you've repetitive logic in your code then instead of repeating logic in different places , we're going to write that logic at one place and give that some name , giving name simply means defining a Fucntion.
+* Whenever you've repetitive logic in your code then instead of repeating logic in different places , we're going to write that logic at one place and give that some name , giving name simply means defining a Fucntion.
+* Code Reusability
+* Improve Modularity
 
 ## Defining a Funcion
 In Python a function is defined using the `def` keyword , def is short for *define*. 
@@ -54,7 +56,8 @@ else:
 ```
 Let's understand it in terms of Mathematics :
 
-f(x) = 3x + 7
+`f(x) = 3x + 7`
+
 Here :
 * f = mycode
 * x = cmd1 , cmd2
