@@ -1,4 +1,4 @@
-# Python Scripting 
+# Python Scripting 🐍
 
 > Coding vs Scripting <br>
 
