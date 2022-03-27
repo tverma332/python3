@@ -27,3 +27,4 @@ except:
    # handle all other exceptions
    pass
 ```
+![](./imgs/except.PNG)
