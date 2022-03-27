@@ -46,3 +46,19 @@ try:
 finally:
    f.close()
 ```
+
+## Difference between try except else & try except finally block
+`finally` will always executes and `else` only executes when there is no exception in try block
+```py
+try:
+  a = 9
+  print(a)
+except NameError:
+  print("Variable is not defined")
+except Exception as e:
+  print("Exception occured:",e)
+else:
+  print("This will execute if there is not exceptions in try block")
+finally:
+  print("This will executes always")
+```
