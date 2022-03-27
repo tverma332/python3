@@ -1,5 +1,5 @@
 # Exception Handling
-* Exception is a Error
+* Exception is an Error
 * A python progam terminates as soon as it encounters an error 
 * Error are of two types in Python:
 1. `Syntax Errors` : No way to handle syntax errors
