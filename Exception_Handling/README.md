@@ -62,3 +62,26 @@ else:
 finally:
   print("This will executes always")
 ```
+
+## Creating custom Exceptions
+Wantedly id you want to raise an exception then you can & such type of exceptions are called custom Exceptions.
+1. `raise` (used to raise an existing exceptions wantedly)
+```py
+age = 25
+
+if age > 30:
+  print("valid age")
+else:
+  raise ValueError("Age is less than 30")
+```
+
+2. `assert` (assert will raise assertion error when the condition is false , whenever you gen any Assertion error you've to assume that wantedly created an exception)
+```py
+age = 20 
+
+try:
+  assert age > 30
+  print("valid age")
+except AssertionError:
+  print("raised wit assert because age is less than 30")
+```
