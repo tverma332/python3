@@ -75,7 +75,7 @@ else:
   raise ValueError("Age is less than 30")
 ```
 
-2. `assert` (assert will raise assertion error when the condition is false , whenever you gen any Assertion error you've to assume that wantedly created an exception)
+2. `assert` (assert will raise assertion error when the condition is false , whenever you get any Assertion error you've to assume that you wantedly created an exception)
 ```py
 age = 20 
 
