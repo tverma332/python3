@@ -11,4 +11,4 @@ Coding vs Scripting is a long debate that's relatively hard to answer. The main 
 2. Clone the forked repository to your local system.
 3. Make your changes in the code in your local system.
 4. Send a Pull Request.
-5. If you like the Notes, you can appreciate by providing star to the repository
+5. If you like the Notes, you can appreciate by providing star to the repository.
