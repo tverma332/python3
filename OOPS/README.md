@@ -5,6 +5,8 @@
 
 **`OOPS`** : 
 
+* The concept of OOP in Python focuses on creating reusable code. This concept is also known as DRY (Don't Repeat Yourself).
+
 * It is about class , object , Inheritance , Polymorphism , Data Abstraction and Data Encapsulation
 * Basically OOPS is all about usage of class and object
 
