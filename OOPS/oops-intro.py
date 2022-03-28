@@ -22,6 +22,7 @@ def main():
 	# tomcat7.get_details_for_each_tomcat("tomcat9",/home/Automation/tomcat9/conf/server.xml")
 	print(tomcat9.tcf)
 	tomcat9.display_details()
+	#display_details("tomcat9")
 	tomcat7.display_details() 
 	return None
 
