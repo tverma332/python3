@@ -1,4 +1,4 @@
-# LEC 93 : Transfer a file form local server to remote server and vice versa using paramiko of python
+# LEC 93 : Transfer a file from local server to remote server and vice versa using paramiko of python
 
 import paramiko
 ssh = paramiko.SSHClient()

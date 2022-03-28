@@ -45,7 +45,7 @@ Coding vs Scripting is a long debate that's relatively hard to answer. The main 
 11. [Find Bash version of Linux OS](./Practice/bash-version.py)
 12. [Find Java Version](./Practice/get-java-version.py)
 13. [Copy the contents of a file to another file](./Practice/copy-content.py)
-14. [Transfer a file form local server to remote server and vice versa using paramiko of python](./Practice/Paramiko-transfer-download-remote-server.py)
+14. [Transfer a file from local server to remote server and vice versa using paramiko of python](./Practice/Paramiko-transfer-download-remote-server.py)
 15. [Python script to find all tomcats home and config file locations](./Practice/tomcat-config-file-location.py)
 
 
