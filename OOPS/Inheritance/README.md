@@ -11,7 +11,7 @@ class DerivedClass(BaseClass):
 ```
 Derived class inherits features from the base class where new features can be added to it. This results in re-usability of code.
 
-Ex -
+**`Ex -`**
 ```py
 from math import pi
 
