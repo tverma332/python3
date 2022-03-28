@@ -48,7 +48,7 @@ Coding vs Scripting is a long debate that's relatively hard to answer. The main 
 14. [Transfer a file from local server to remote server and vice versa using paramiko of python](./Practice/Paramiko-transfer-download-remote-server.py)
 15. [Python script to find all tomcats home and config file locations](./Practice/tomcat-config-file-location.py)
 
-`NOTE :` I will keep adding more real-time scripts and projects , it's just beginning :) :) 
+**`NOTE:`** I will keep adding more real-time scripts and projects , it's just beginning :)  
 
 ## 📝 Want to contribute ?
 
