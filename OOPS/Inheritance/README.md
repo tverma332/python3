@@ -138,7 +138,8 @@ Mother : SITA
 
 3. **`Multilevel Inheritance:`**
 In multilevel inheritance, features of the base class and the derived class are further inherited into the new derived class. This is similar to a relationship representing a child and grandfather. 
-![](./imgs/multilevelinheritance.png)
+
+   ![](./imgs/multilevelinheritance.png)
 ```py
 # multilevel inheritance
 
