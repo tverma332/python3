@@ -8,4 +8,4 @@
 * It is about class , object , Inheritance , Polymorphism , Data Abstraction and Data Encapsulation
 * Basically OOPS is all about usage of class and object
 
-`Object` : Object could be anything
+**`Object`** : Object could be anything
