@@ -64,7 +64,7 @@ finally:
 ```
 
 ## Creating custom Exceptions
-Wantedly id you want to raise an exception then you can & such type of exceptions are called custom Exceptions.
+Wantedly if you want to raise an exception then you can & such type of exceptions are called custom Exceptions.
 1. `raise` (used to raise an existing exceptions wantedly)
 ```py
 age = 25
